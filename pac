@@ -14,6 +14,7 @@ var rules = [
   ".kr",
   ".jp",
   ".free-ss.site"
+  ".freebrowser.org"
   "/^https?:\/\/(?!dl\.)[^\/]+google[^\.]*\.(.*)/"
   "||goo.gl",
   "||gstatic.com",
